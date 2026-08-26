@@ -1,0 +1,2 @@
+# Bỏ qua toàn bộ thư mục work (chứa log, script, waveform, database...)
+sim/work/
